@@ -21,10 +21,12 @@ Some useful links:
 
 La tienda de piscinas ha decidido crear ya que tiene un almacen centralizado y diferentes tiendas en la provincia. Usando Vaadin crear una interfaz gráfica.
 La aplicación ha de poder:
-- Crear categorias.
-- Listar categorias, en el listado la opción de borrar, editar y ver productos.
-- Crear productos.
-- Listar productos de una categoría y con las opciones de borrar y editar.
+
+- Crear categorias
+- Listar categorias, con las opciones de borrar, editar y ver productos
+- Crear productos
+- Listar los productos de una categoria junto con las opcioens de borrar y editar
+
     
 **En una aplicación real se realizaría una petición a un servidor y se obtendría los datos en formato XML o JSON. En este ejemplo se simular utilizado un método load de la clase aplicación, que simula la petición.**
 
